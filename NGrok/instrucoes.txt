@@ -1,0 +1,6 @@
+- ir no cmd e digitar
+cd <endereco da pasta do codigo>
+python -m http.server
+
+- abrir o ngrok digitar
+ngrok http 8000
